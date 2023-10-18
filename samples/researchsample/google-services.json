@@ -1,0 +1,47 @@
+{
+    "project_info": {
+        "project_number": "735063085437",
+        "project_id": "fir-healthstack-8794b",
+        "storage_bucket": "fir-healthstack-8794b.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:735063085437:android:bc880111fd01b0a42b3c14",
+                "android_client_info": {
+                    "package_name": "healthstack.sample"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "735063085437-fv23ulbt4107ofsjc5nnnqtvhba57kp2.apps.googleusercontent.com",
+                    "client_type": 1,
+                    "android_info": {
+                        "package_name": "healthstack.sample",
+                        "certificate_hash": "acb41d7aaa870cfd753c690f32d37cd607789434"
+                    }
+                },
+                {
+                    "client_id": "735063085437-8dbj8mo84u6fb6d19ph6fu8amhtadub5.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyBxQ3iVRDY00WJITEFOwQeGJWg4u69AoEI"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "735063085437-8dbj8mo84u6fb6d19ph6fu8amhtadub5.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
